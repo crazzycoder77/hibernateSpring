@@ -1,0 +1,6 @@
+com\cognizant\spring\orm\App.class
+com\cognizant\spring\orm\dal\PassengerDalImpl.class
+com\cognizant\spring\orm\dao\PassengerDao.class
+com\cognizant\spring\orm\dao\PassengerDaoImpl.class
+com\cognizant\spring\orm\dal\PassengerDal.class
+com\cognizant\spring\orm\entity\Passenger.class
